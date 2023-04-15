@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 8: Line is indented, but the preceding image statement statement does not expect a block. Please check this line's indentation.
+    zoom 1.5
+    ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sat Apr 15 12:32:35 2023
